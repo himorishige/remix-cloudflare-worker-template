@@ -31,7 +31,7 @@ export default function Index() {
     <main>
       <Form method="post" id="username-form">
         <label>
-          Choose a username:
+          Choose a Username:
           <br />
           <input
             name="username"
@@ -51,7 +51,7 @@ export default function Index() {
       </p>
       <p>or</p>
       <label>
-        Enter a public room:
+        Enter a Public Room:
         <br />
         <input
           form="username-form"
